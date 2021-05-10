@@ -1,2 +1,2 @@
 # Game
-a simple game of plane dodged the bomb
+a simple game of plane dodge the bomb
